@@ -1,0 +1,16 @@
+.header-color {
+  background-color: #a6b1e1;
+}
+.header-text {
+  text-align: left;
+  color: #f4eeff;
+}
+.header {
+  margin: auto -16px;
+  padding: 16px 32px;
+  box-shadow: 0 0 10px 0 #424874;
+}
+.header-title {
+  font-weight: 200;
+  font-family: "Pacifico", cursive;
+}

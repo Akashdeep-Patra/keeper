@@ -1,0 +1,27 @@
+.card {
+  word-wrap: break-word;
+  width: max-content;
+  min-width: 160px;
+  background: #efff;
+  max-width: 240px;
+  border-radius: 7px;
+  height: fit-content;
+  padding: 1%;
+  margin: 1%;
+  float: left;
+  text-align: left;
+  box-shadow: 0 2px 5px #ccc;
+  font-family: "roboto", cursive;
+  cursor: pointer;
+}
+.card-title {
+  font-size: 1.1em;
+  margin-bottom: 6px;
+}
+.card-content {
+  color: gray;
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
